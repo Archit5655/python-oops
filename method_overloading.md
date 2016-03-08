@@ -24,3 +24,20 @@ obj.get_brand('Samsung')
 
 ```
 
+#### Output:
+
+> Hello
+
+> Hello Guido
+
+> To clarify method overloading, we can now call the method sayHello() in two ways:
+
+```python
+obj.get_brand()
+obj.get_brand('Samsung')
+```
+
+> We created a method that can be called with fewer arguments than it is defined
+> to allow. We are not limited to two variables, your method could have more
+> variables which are optional.
+
