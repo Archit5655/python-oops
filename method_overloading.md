@@ -28,7 +28,7 @@ obj.get_brand('Samsung')
 
 > Hello
 
-> Hello Guido
+> Hello Samsung
 
 > To clarify method overloading, we can now call the method sayHello() in two ways:
 
